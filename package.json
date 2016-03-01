@@ -1,6 +1,6 @@
 {
-  "name": "react-typeahead",
-  "version": "0.0.1",
+  "name": "arbor-react-typeahead",
+  "version": "0.0.2",
   "description": "react typeahead",
   "main": "index.js",
   "scripts": {
