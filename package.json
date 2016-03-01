@@ -1,0 +1,26 @@
+{
+  "name": "react-typeahead",
+  "version": "0.0.1",
+  "description": "react typeahead",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://arborQ@github.com/arborQ/react-typeahead.git"
+  },
+  "keywords": [
+    "react",
+    "typeahead"
+  ],
+  "author": "Lukasz Wojcik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arborQ/react-typeahead/issues"
+  },
+  "homepage": "https://github.com/arborQ/react-typeahead#readme",
+  "dependencies": {
+    "react": "^0.14.7"
+  }
+}
